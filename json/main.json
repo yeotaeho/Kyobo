@@ -1,0 +1,218 @@
+[
+
+{
+    "main_text":"특별 판매가 6930원!<br>2023 젊은작가상 특별전",
+    "banner_col":"작가와의 만남",
+    "banner_p":"정돈, 텍스트 바깥으로 확장되고 연결되는 소설들",
+    "banner_span":"by 교보문고",
+    "main_menu":"핫이슈",
+    "main_button":"img/button_menu.jpg",
+    "main_img":"img/main_img1.jpg",
+    "book_img":"img/book1.jpg",
+    "best_book":"img/best_book1.jpg",
+    "sell_img":"img/sell1.jpg",
+    "kyobobook_img":"img/kyobobook_img.jpg"
+},
+
+{
+    "main_menu":"요즘 이 책",
+    "main_img":"img/main_img2.jpg",
+    "main_text":"완전 소중한 혜택과<br>e캐시가 와르르!",
+    "book_img":"img/book2.jpg",
+    "best_book":"img/best_book2.jpg",
+    "sell_img":"img/sell2.jpg",
+    "kyobobook_img":"img/kyobobook2_img.jpg"
+},
+
+{
+    "main_menu":"새로나온 책",
+    "main_img":"img/main_img3.jpg",
+    "main_text":"총 800명 → 2천만원💰경품<br>역대급 🎁선물 프로젝트",
+    "book_img":"img/book3.jpg",
+    "best_book":"img/best_book3.jpg",
+    "sell_img":"img/sell3.jpg",
+    "kyobobook_img":"img/kyobobook3_img.jpg"
+},
+
+{
+    "main_menu":"기획전",
+    "main_img":"img/main_img4.jpg",
+    "main_text":"5월 책그리고꽃 -25%<br>Send your LOVE💐",
+    "book_img":"img/book4.jpg",
+    "best_book":"img/best_book4.jpg",
+    "sell_img":"img/sell4.jpg",
+    "kyobobook_img":"img/kyobobook4_img.jpg"
+},
+
+{
+    "main_menu":"eBook",
+    "main_img":"img/main_img5.jpg",
+    "main_text":"5월, 선물할 때<br>딱! 필요한 쇼핑가이드",
+    "book_img":"img/book5.jpg",
+    "best_book":"img/best_book5.jpg",
+    "sell_img":"img/sell5.jpg"
+},
+
+{
+    "main_menu":"sam",
+    "main_img":"img/main_img6.jpg",
+    "main_text":"아직 쌀쌀한 저녁엔<br>5월 선물 피크닉 블랭킷",
+    "book_img":"img/book6.jpg",
+    "best_book":"img/best_book6.jpg",
+    "sell_img":"img/sell6.jpg"
+},
+
+{
+    "main_menu":"핫트랙스",
+    "main_img":"img/main_img7.jpg",
+    "main_text":"북메이트와 함께 읽는<br이달의 책 5월",
+    "book_img":"img/book7.jpg",
+    "best_book":"img/best_book7.jpg",
+    "sell_img":"img/sell7.jpg"
+},
+
+{
+    "main_menu":"톡소다",
+    "main_img":"img/main_img8.jpg",
+    "main_text":"어린이날! 작가의 추천도서<br>책 속의 다정한 세상",
+    "book_img":"img/book8.jpg",
+    "best_book":"img/best_book8.jpg",
+    "sell_img":"img/sell8.jpg"
+},
+
+{
+    "main_menu":"|",
+    "main_img":"img/main_img9.jpg",
+    "main_text":"원자에서 인간까지<br>김상욱 작가를 만나다",
+    "book_img":"img/book9.jpg",
+    "best_book":"img/best_book9.jpg",
+    "sell_img":"img/sell9.jpg"
+},
+
+{
+    "main_menu":"&lt;",
+    "main_img":"img/main_img10.jpg",
+    "main_text":"5월의 고전수업<br>김겨울, 정성일",
+    "book_img":"img/book10.jpg",
+    "sell_img":"img/sell10.jpg"
+},
+
+{
+    "main_menu":"&gt;",
+    "main_img":"img/main_img11.jpg",
+    "main_text":"새로운 인사이트를 전하는 강연!<br>명강의Big10 최인아 편, 유현준 편",
+    "book_img":"img/book11.jpg",
+    "sell_img":"img/sell11.jpg"
+},
+
+{
+    "main_img":"img/main_img12.jpg",
+    "main_text":"교보문고 시그니처향<br>디퓨저 100ml 출시 10% 할인",
+    "book_img":"img/book12.jpg",
+    "sell_img":"img/sell12.jpg"
+},
+
+{
+    "main_img":"img/main_img13.jpg",
+    "main_text":"제9회 교보손글씨대회<br>손글쓰기문화확산캠페인",
+    "book_img":"img/book13.jpg"
+},
+
+{
+    "main_img":"img/main_img14.jpg",
+    "main_text":"타고난 계층을 바꾸는 건<br>아비투스뿐이다.",
+    "book_img":"img/book14.jpg"
+},
+
+{
+    "main_img":"img/main_img15.jpg",
+    "main_text":"경계를 넘어 새로운 세계와<br>만나는 경이로운 경험",
+    "book_img":"img/book15.jpg"
+},
+
+{
+    "main_img":"img/main_img16.jpg",
+    "main_text":"사물의 이야기를 듣는 소년과<br>말하는 책의 마법 같은 대화",
+    "book_img":"img/book16.jpg"
+},
+
+{
+    "main_img":"img/main_img17.jpg",
+    "main_text":"‘행복하다’ 말하는 법을 잊은 당신에게<br>이삭, 보리의 해사한 계절 기록!",
+    "book_img":"img/book17.jpg"
+},
+
+{
+    "main_img":"img/main_img18.jpg",
+    "main_text":"다윈의 200년 난제,<br>현대 진화론의 답",
+    "book_img":"img/book18.jpg"
+},
+
+{
+    "main_img":"img/main_img19.jpg",
+    "main_text":"골라갖는 재미가 있다!<br>베스트 사은품 13",
+    "book_img":"img/book19.jpg"
+},
+
+{
+    "main_img":"img/main_img20.jpg",
+    "main_text":"최대 60% 특가<br>토이 페스티벌!",
+    "book_img":"img/book20.jpg"
+},
+
+{
+    "main_img":"img/main_img21.jpg",
+    "main_text":"이달의 추천 새 책 X<br>봄의 유리 머그"
+},
+
+{
+    "main_img":"img/main_img22.jpg",
+    "main_text":"<66일 인문학 대화법> 김종원 저자<br>단독 강연회 티켓"
+},
+
+{
+    "main_img":"img/main_img23.jpg",
+    "main_text":"스승의 날을 맞아<br>선생님께 드립니다"
+},
+
+{
+    "main_img":"img/main_img24.jpg",
+    "main_text":"예술가들이 사랑한 화가<br>에드워드 호퍼"
+},
+
+{
+    "main_img":"img/main_img25.jpg",
+    "main_text":"50,000캐시 받으러 가기!<br>교보eBook 환상의 캐시복권!"
+},
+
+{
+    "main_img":"img/main_img26.jpg",
+    "main_text":"북멘토가 추천한 이달의 추천도서<br>교보eBook에서 함께하세요"
+},
+
+{
+    "main_img":"img/main_img27.jpg",
+    "main_text":"매달 무료! 교보 북드림!<br><챗GPT 기회를 잡는 사람들> 단독 혜택"
+},
+
+{
+    "main_img":"img/main_img28.jpg",
+    "main_text":"귀엽다는 말 들은 적 없어! 6권 UP<br>30% 세트 특가"
+},
+
+{
+    "main_img":"img/main_img29.jpg",
+    "main_text":"sam2 첫 달 특가!<br>1,000원의 행복♥"
+},
+
+{
+    "main_img":"img/main_img30.jpg",
+    "main_text":"여의도를 뒤흔든<br>부의 기회가 온다!"
+},
+
+{
+    "main_img":"img/main_img31.jpg",
+    "main_text":"가정의 달 특선 영화,<br>『의 좋은 형제』 보러가기"
+}
+
+]

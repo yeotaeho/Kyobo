@@ -1,0 +1,161 @@
+[
+{
+"brand":"eBook",
+"log":"회원가입",
+"nav":"<img src='img/menu_button.png'>",
+"nav2":"할인해택",
+"nav_menu_li":"종합 베스트셀러",
+"nav_menu_li2":"출석체크",
+"nav_menu_li3":"책 그리고 꽃",
+"nav_menu_li4":"손글씨문서확산",
+"nav_menu_li5":"강연/공연",
+"nav_menu_li6":"오디오북",
+"nav_menu_li7":"웹소설",
+"nav_menu_li8":"오늘만특가",
+"nav_menu_li9":"중고도서",
+"nav_menu_li10":"홈",
+"nav_menu_li11":"이달의 북모닝도서",
+"nav_menu_li12":"포트폴리오",
+"nav_menu_li13":"교보북클럽",
+"nav_menu_li14":"자주묻는질문",
+"nav_menu_li15":"주문내역",
+"nav_menu_li16":"리스트",
+"nav_menu_li18":"교보문고 소개",
+"nav_menu_li19":"협력사여러분",
+"nav_menu_li20":"이용약관"
+},
+
+{
+"brand":"sam",
+"log":"|",
+"nav":"심리테스트",
+"nav2":"출석체크",
+"nav_menu_li":"스테디셀러",
+"nav_menu_li2":"이벤트당첨자",
+"nav_menu_li3":"오늘의 선택",
+"nav_menu_li4":"손글씨대회",
+"nav_menu_li5":"여행/체험",
+"nav_menu_li6":"대여",
+"nav_menu_li7":"웹툰",
+"nav_menu_li8":"베스트",
+"nav_menu_li9":"중고음반",
+"nav_menu_li10":"라이브",
+"nav_menu_li11":"이 주의 북브리핑",
+"nav_menu_li12":"스토리공모전",
+"nav_menu_li13":"등급별혜택",
+"nav_menu_li14":"1:1문의",
+"nav_menu_li15":"선물내역",
+"nav_menu_li16":"코멘트",
+"nav_menu_li18":"사업현왕",
+"nav_menu_li19":"제휴/제안",
+"nav_menu_li20":"개인정보처리방침"
+},
+
+{
+"brand":"핫트랙스",
+"log":"로그인",
+"nav":"어린이날",
+"nav2":"<img src='img/+button.png'>",
+"nav_menu_li":"신상품",
+"nav_menu_li2":"이벤트",
+"nav_menu_li3":"이달의 책",
+"nav_menu_li4":"일상속손글씨",
+"nav_menu_li5":"전시",
+"nav_menu_li6":"신간",
+"nav_menu_li7":"자유연재",
+"nav_menu_li8":"핫달특가",
+"nav_menu_li9":"중고블루레이 DVD",
+"nav_menu_li10":"영상",
+"nav_menu_li11":"이벤트",
+"nav_menu_li12":"테마공모전",
+"nav_menu_li13":"신규회원혜택",
+"nav_menu_li14":"공지사항",
+"nav_menu_li15":"활동내역",
+"nav_menu_li16":"클로버리뷰",
+"nav_menu_li18":"사회공헌",
+"nav_menu_li19":"애드북",
+"nav_menu_li20":"청소년보호정책"
+},
+
+{
+"brand":"매장안내",
+"log":"|",
+"nav":"베스트",
+"nav2":"<img src='img/bear.png'>",
+"nav_menu_li":"사은품",
+"nav_menu_li3":"POD",
+"nav_menu_li4":"손글씨폰트",
+"nav_menu_li5":"이벤트/소식",
+"nav_menu_li6":"교보오리지널",
+"nav_menu_li7":"베스트",
+"nav_menu_li8":"쿠폰/혜택",
+"nav_menu_li9":"최저가 중고도서",
+"nav_menu_li10":"포스트",
+"nav_menu_li11":"회원가입",
+"nav_menu_li12":"스토리마켓",
+"nav_menu_li13":"Prestige Lounge",
+"nav_menu_li14":"전화상담 안내도",
+"nav_menu_li15":"영수증조회/출력",
+"nav_menu_li16":"문장수집",
+"nav_menu_li18":"채용정보",
+"nav_menu_li19":"협력사네트워크"
+},
+
+{
+"brand":"톡소다",
+"log":"회원해택",
+"nav":"신상품",
+"nav_menu_li":"특가",
+"nav_menu_li3":"스펙비교",
+"nav_menu_li4":"손글씨이벤트",
+"nav_menu_li6":"sam무제한",
+"nav_menu_li8":"COVER WELL (POD)",
+"nav_menu_li10":"이벤트",
+"nav_menu_li13":"제휴포인트상품권",
+"nav_menu_li14":"법인회원 대량주문",
+"nav_menu_li15":"영수증 후 적립",
+"nav_menu_li19":"CP관리시스템"
+},
+
+{
+"brand":"스토리",
+"log":"|",
+"nav":"이벤트",
+"nav_menu_li":"정가인하",
+"nav_menu_li3":"우리가 만드는책",
+"nav_menu_li6":"sam프리미엄",
+"nav_menu_li13":"참좋은교보문고",
+"nav_menu_li15":"회원정보"
+},
+
+{
+"brand":"브랜드더보기",
+"log":"고객센터",
+"nav":"사은품",
+"nav_menu_li":"인물&작품",
+"nav_menu_li3":"기프트카드",
+"nav_menu_li6":"sam그리고책",
+"nav_menu_li15":"알림센터"
+},
+
+{
+"nav":"PICKS",
+"nav_menu_li":"선물하기",
+"nav_menu_li3":"분철서비스",
+"nav_menu_li6":"학술논문",
+"nav_menu_li15":"나의혜택/포인트"
+},
+
+{
+"nav":"CASTing",
+"nav_menu_li":"추천",
+"nav_menu_li3":"바로찾는바로드림"
+},
+
+{
+"nav":"교보ONLY",
+"nav_menu_li3":"수준별원서읽기"
+}
+
+
+]
