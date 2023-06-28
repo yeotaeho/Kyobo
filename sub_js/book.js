@@ -41,7 +41,7 @@ $(document).ready(function(){
             $('#serch_bar').css({"position":"relative","border":"none","z-index":"0"})
         }
         //목록
-        if($(this).scrollTop() > 1400){
+        if($(this).scrollTop() > 1450){
             $('#list').css({"position":"fixed","top":"0","margin-top":"82px","background-color":"#fff"})
             $('.tabs').find('li:first').css({"color":"#000","border-bottom":"2px solid #000"})
         }else{
